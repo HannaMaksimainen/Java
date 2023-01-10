@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eddb2957-3a60-4800-8d56-b6c1450de6cd" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="2K5RFN1XWWrvG6ySISskfnbRxH6" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.JavaFX" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\PORTFOLIO-Hanna-Maksimainen\OpiskelijaSuoritus\src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MainApp" />
+      <module name="OpiskelijaSuoritus" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eddb2957-3a60-4800-8d56-b6c1450de6cd" name="Default Changelist" comment="" />
+      <created>1673262352916</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673262352916</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="170" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1673262460890">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="414" y="170" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.88.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1673262460890" />
+    <state x="689" y="299" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1673262458257">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="689" y="299" key="#com.intellij.ide.util.TreeClassChooserDialog/-1920.88.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1673262458257" />
+    <state x="739" y="257" key="FileChooserDialogImpl" timestamp="1673262759161">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="739" y="257" key="FileChooserDialogImpl/-1920.88.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1673262759161" />
+    <state width="1877" height="365" key="GridCell.Tab.0.bottom" timestamp="1673262768477">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="365" key="GridCell.Tab.0.bottom/-1920.88.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1673262768477" />
+    <state width="1877" height="365" key="GridCell.Tab.0.center" timestamp="1673262768477">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="365" key="GridCell.Tab.0.center/-1920.88.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1673262768477" />
+    <state width="1877" height="365" key="GridCell.Tab.0.left" timestamp="1673262768477">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="365" key="GridCell.Tab.0.left/-1920.88.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1673262768477" />
+    <state width="1877" height="365" key="GridCell.Tab.0.right" timestamp="1673262768477">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="365" key="GridCell.Tab.0.right/-1920.88.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1673262768477" />
+    <state width="1877" height="344" key="GridCell.Tab.1.bottom" timestamp="1673262467683">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.1.bottom/-1920.88.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1673262467683" />
+    <state width="1877" height="344" key="GridCell.Tab.1.center" timestamp="1673262467682">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.1.center/-1920.88.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1673262467682" />
+    <state width="1877" height="344" key="GridCell.Tab.1.left" timestamp="1673262467682">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.1.left/-1920.88.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1673262467682" />
+    <state width="1877" height="344" key="GridCell.Tab.1.right" timestamp="1673262467683">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state width="1877" height="344" key="GridCell.Tab.1.right/-1920.88.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1673262467683" />
+    <state x="656" y="339" key="com.intellij.ide.util.TipDialog" timestamp="1673262560042">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="656" y="339" key="com.intellij.ide.util.TipDialog/-1920.88.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1673262560042" />
+    <state x="342" y="136" key="new project wizard" timestamp="1673262766700">
+      <screen x="0" y="0" width="1920" height="1032" />
+    </state>
+    <state x="342" y="136" key="new project wizard/-1920.88.1280.688/0.0.1920.1032@0.0.1920.1032" timestamp="1673262766700" />
+  </component>
+</project>
